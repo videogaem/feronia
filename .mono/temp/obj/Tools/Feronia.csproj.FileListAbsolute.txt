@@ -1,0 +1,6 @@
+C:\Users\Gustav\Documents\Godot\Feronia\.mono\temp\obj\Tools\Feronia.csprojAssemblyReference.cache
+C:\Users\Gustav\Documents\Godot\Feronia\.mono\temp\obj\Tools\Feronia.csproj.CoreCompileInputs.cache
+C:\Users\Gustav\Documents\Godot\Feronia\.mono\temp\bin\Tools\Feronia.dll
+C:\Users\Gustav\Documents\Godot\Feronia\.mono\temp\bin\Tools\Feronia.pdb
+C:\Users\Gustav\Documents\Godot\Feronia\.mono\temp\obj\Tools\Feronia.dll
+C:\Users\Gustav\Documents\Godot\Feronia\.mono\temp\obj\Tools\Feronia.pdb
