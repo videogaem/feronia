@@ -51,4 +51,5 @@ ui_down={
 
 [rendering]
 
+quality/depth/hdr=false
 environment/default_environment="res://default_env.tres"
