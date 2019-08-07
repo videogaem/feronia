@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slime0007.png-75102503cccc0ef14b5f283124ab9e93.stex"
+path="res://.import/slime0000.png-2c9c64b7af0e3a7ee3e0a15ca08017d3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/slime/slime0007.png"
-dest_files=[ "res://.import/slime0007.png-75102503cccc0ef14b5f283124ab9e93.stex" ]
+source_file="res://Assets/Sprites/Characters/slime/slime0000.png"
+dest_files=[ "res://.import/slime0000.png-2c9c64b7af0e3a7ee3e0a15ca08017d3.stex" ]
 
 [params]
 

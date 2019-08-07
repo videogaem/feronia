@@ -1,6 +1,8 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://Scenes/Characters/Character.cs" type="Script" id=1]
+[ext_resource path="res://Scenes/Inventory/Equipment.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Scenes/Inventory/Inventory.tscn" type="PackedScene" id=3]
 
 [sub_resource type="SpriteFrames" id=1]
 animations = [ {
@@ -17,3 +19,7 @@ script = ExtResource( 1 )
 
 [node name="Sprite" type="AnimatedSprite" parent="."]
 frames = SubResource( 1 )
+
+[node name="Equipment" parent="." instance=ExtResource( 2 )]
+
+[node name="Inventory" parent="." instance=ExtResource( 3 )]

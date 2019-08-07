@@ -53,6 +53,10 @@
     <Compile Include="Scenes\Characters\Character.cs" />
     <Compile Include="Scenes\Characters\Player.cs" />
     <Compile Include="Scenes\Control\Main.cs" />
+    <Compile Include="Scenes\Inventory\Equipment.cs" />
+    <Compile Include="Scenes\Inventory\Inventory.cs" />
+    <Compile Include="Scenes\Items\Item.cs" />
+    <Compile Include="Scenes\Items\Weapons\Weapon.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

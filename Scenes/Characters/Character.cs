@@ -68,4 +68,10 @@ public class Character : Node2D
 		
 	}
 	
+	
+	public void Attack(){
+		var weapon = GetNode<Equipment>("Equipment").getWeapon();
+		weapon.Attack();
+	}
+	
 }
